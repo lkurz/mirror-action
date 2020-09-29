@@ -10,10 +10,10 @@ inputs:
     required: false
   GIT_USERNAME:
     description: "Username for remote repository"
-    required: false
+    required: true
   GIT_PASSWORD:
     description: "The git https password or token for the remote repository"
-    required: false
+    required: true
   GIT_SSH_PRIVATE_KEY:
     description: "The ssh private key for writing to the remote repository, if using ssh"
     required: false
