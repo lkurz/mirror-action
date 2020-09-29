@@ -37,7 +37,7 @@ inputs:
     required: false
   DEBUG:
     description: 'set to "true" to enable debug mode'
-    default: "false"
+    default: "true"
     required: false
 
 
